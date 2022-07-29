@@ -5,7 +5,7 @@
 A Full Stack Chat Application where users can create their rooms or interact individually with each other using texts, emojis, images and videos
 
 
-# FEATURES
+## FEATURES
 
 ## &nbsp; LOGIN , REGISTER
 * Register new account
@@ -54,3 +54,6 @@ A Full Stack Chat Application where users can create their rooms or interact ind
 - Avatar Selection
 
 ![2](https://user-images.githubusercontent.com/84188309/181692950-63b652f5-37f0-4de0-ab4a-831b0f3b3653.jpg)
+
+
+
