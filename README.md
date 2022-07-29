@@ -5,8 +5,6 @@
 A Full Stack Chat Application where users can create their rooms or interact individually with each other using texts, emojis, images and videos
 
 
-## Features
-
 # FEATURES
 
 ## &nbsp; LOGIN , REGISTER
